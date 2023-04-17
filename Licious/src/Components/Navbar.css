@@ -1,0 +1,76 @@
+.aboveNavbar {
+    background-color: #f1eded;
+    height: 20px;
+    /* position: fixed;
+    top: 0; */
+    overflow: hidden;
+    width: 100%;
+    font-size: 13px;
+    font-family: sans-serif;
+    align-items: center;
+    margin: auto;
+    padding: 0.5%;
+    color: #727272;
+}
+
+.aboveNavbar-inner {
+    width: 77%;
+    height: 100%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    /* border: 1px solid red; */
+    justify-content: space-between;
+}
+
+.contact-about {
+    width: 30%;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 0.5%;
+}
+
+.apple-playStore {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1%;
+}
+
+/* for Middle Navbar-main */
+.MiddleNavbar-main {
+    width:85%;
+    margin: auto;
+    align-items: center;
+    padding: 1%;
+    display: flex;
+    justify-content: space-around;
+    /* border: 1px solid red; */
+
+}
+
+.Navbar-Main {
+    top: 0;
+    /* border: 1px solid red; */
+    z-index: 1000;
+    position: fixed;
+    width: 100%;
+    background-color: white;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+
+}
+
+
+.style-3::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+    background-color: #F5F5F5;
+}
+
+.style-3::-webkit-scrollbar {
+    width: 6px;
+    background-color: #F5F5F5;
+}
+
+.style-3::-webkit-scrollbar-thumb {
+    background-color: #000000;
+}
