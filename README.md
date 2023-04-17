@@ -79,19 +79,19 @@
 
 ## Here are some Screenshots of the Cloned Website :-
 
-|                                                    Home Page                                                    |                                                  Products Page                                                  |
+|                                                    <h2>Home Page</h2>                                                    |                                                  <h2>Products Page</h2>                                                  |
 | :-------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: |
 | ![image](https://user-images.githubusercontent.com/50316091/229379794-61092654-70a3-4c57-8f21-4f88b333d7cd.png) | ![image](https://user-images.githubusercontent.com/50316091/229380015-ea5f50b6-4f09-4bfb-b9bd-78df6b926200.png) |
-|                                                  Profile Page                                                   |                                                    Cart Page                                                    |
+|                                                  <h2>Profile Page</h2>                                                   |                                                    <h2>Cart Page</h2>                                                    |
 | ![image](https://user-images.githubusercontent.com/50316091/229380429-f1d136b6-65fc-421c-b109-9c11e489e0d2.png) | ![image](https://user-images.githubusercontent.com/50316091/229380234-c81c69b2-5c5a-4c66-95c1-cbc395589f98.png) |
-|                                              Order Summary Details                                              |                                                  Payment Page                                                   |
+|                                              <h2>Order Summary Details</h2>                                              |                                                  <h2>Payment Page</h2>                                                   |
 | ![image](https://user-images.githubusercontent.com/50316091/229380498-5e5f7ef0-8f6f-4101-ad17-9ec07d68e1f1.png) | ![image](https://user-images.githubusercontent.com/50316091/229380534-cd7a4308-bec5-4d80-a55a-995498c91930.png) |
 
-|                                                 My Orders Page                                                  |
+|                                                 <h2>My Orders Page</h2>                                                  |
 | :-------------------------------------------------------------------------------------------------------------: |
 | ![image](https://user-images.githubusercontent.com/50316091/229380612-0103cae9-7f7f-4743-b1c4-4068fb515944.png) |
 
-|                                            Product Description Page                                             |
+|                                            <h2>Product Description Page</h2>                                             |
 | :-------------------------------------------------------------------------------------------------------------: |
 | ![image](https://user-images.githubusercontent.com/50316091/229380806-c9bd8c9b-b425-4aea-b298-914960836be5.png) |
 
