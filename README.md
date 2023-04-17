@@ -4,7 +4,7 @@
 
 ## About
 
-<h3 align="justify" width="80%">Licious is the first company in the sector to have pledged towards a complete ESG compliance. To this end, the company has deployed a task-force that has been actively working towards achieving the goal. In late 2021, Licious partnered with the World Animal Protection India organization, to signed up to the ‘Commitment to Chicken Welfare</h3>
+<h3 align="justify" width="80%">Licious is an Indian online food delivery company that specializes in delivering fresh, high-quality meat, seafood, and meat-based products.  The company was founded in 2015 by Abhay Hanjura and Vivek Gupta, and is based in Bangalore, India. It sources products directly from farmers, fishermen, and partners with meat processing plants to ensure that the products are fresh and of high quality. Licious operates in several cities across India, including Bangalore, Hyderabad, Delhi, Mumbai, Pune, Chennai, Chandigarh, and Jaipur.</h3>
 
 <br/>
 
