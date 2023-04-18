@@ -10,8 +10,6 @@
 
 ### Frontend Deployed URL 👉 [Click here](https://d-licious.vercel.app/)
 
-### Backend API 👉 [Click here](https://dilicious-adm-api.onrender.com)
-
 ### Original Website 👉 [Click here]( https://www.licious.in)
 
 <br/>
